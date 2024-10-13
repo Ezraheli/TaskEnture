@@ -21,9 +21,9 @@
                 <div class="login-form p-3 px-4 text-light">
                     <form action="./login_process.php" method="post" class="px-2">
                         <div class="form-group my-3">
-                            <div class="d-flex justify-content-center mb-3">
+                            <!-- <div class="d-flex justify-content-center mb-3">
                                 <img src="../assets/logo/landscape.svg" alt="Brand Image" class="logo img-fluid my-1 text-center mx-auto">
-                            </div>
+                            </div> -->
                                 <?php
                                     //retrieves an error if there are any
                                     if (isset($_GET["login_error"])) {

@@ -96,7 +96,7 @@
                         <tbody>
                             <tr>
                                 <td>
-                                    <img src="../assets/img/badges/Rookie.svg" alt="">
+                                    <img src="../assets/img/badges/Rookie.svg" alt="" style="max-width: 100px;width: 100%;">
                                 </td>
                                 <td>
                                     <h2>Rookie</h2>
@@ -121,7 +121,7 @@
                         <tbody>
                             <tr>
                                 <td>
-                                    <img src="../assets/img/badges/New Mindset.svg" alt="">
+                                    <img src="../assets/img/badges/New Mindset.svg" alt="" style="max-width: 100px;width: 100%;">
                                 </td>
                                 <td>
                                     <h2>New Mindset</h2>
